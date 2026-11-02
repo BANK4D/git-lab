@@ -3,7 +3,7 @@
 Name: Somchai
 Student ID: 12345678
 Major: Computer Engineering
-Goal: Stop learning Git
+Goal: Learn how to use Git.
 Favorite topic: Embedded systems
 
 [My Study Plan](study-plan.md)
